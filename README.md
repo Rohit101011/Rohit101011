@@ -1,87 +1,24 @@
-# Rohit Poonia 🚀
+<h1 align="center">Hi 👋, I'm Rohit Poonia</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit--poonia-blue)](https://linkedin.com/in/rohit-poonia-2a3b23241) [![GitHub](https://img.shields.io/badge/GitHub-Rohit101011-black)](https://github.com/Rohit101011) [![Email](https://img.shields.io/badge/Email-pooniarohit37@gmail.com-orange)](mailto:pooniarohit37@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit101011&label=Profile%20views&color=0e75b6&style=flat" alt="rohit101011" /> </p>
 
------
+- 🔭 I’m currently working on **TransportBridge**
 
-## 🎓 About Me
+- 🌱 I’m currently learning **Node.js, Express.js and MongoDB**
 
-I’m Rohit Poonia, a Computer Science & Engineering undergraduate at VIT Bhopal, poised to graduate in **June 2025** with a **CGPA of 7.35**. Passionate about frontend development using **React.js**, **Next.js**, **Tailwind CSS**, and building scalable MERN-stack applications.
+- 👨‍💻 All of my projects are available at [https://github.com/Rohit101011](https://github.com/Rohit101011)
 
-- **12th Grade (RBSE, 2021)**: 94.8%
-- **10th Grade (CBSE, 2019)**: 89%
+- 📫 How to reach me **pooniarohit37@gmail.com**
 
------
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-poonia-2a3b23241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-poonia-2a3b23241/" height="30" width="40" /></a>
+</p>
 
-## 💼 Experience
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### Devfrend Web Solutions — Junior Frontend Developer *(May–Jun 2025, Remote)*  
-- Built responsive UI components using Next.js, Tailwind CSS & Shadcn UI  
-- Integrated media content into marketing workflows  
-- Added Supabase authentication & real-time storage  
-- Boosted engagement by ~30% through enhanced accessibility features  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit101011&show_icons=true&locale=en&layout=compact" alt="rohit101011" /></p>
 
-### Ethnus Codemithra — MERN Stack Developer Intern *(Aug–Dec 2023, Virtual)*  
-- Refactored complex DB queries to improve retrieval speed by 50%  
-- Developed interactive React.js components and managed state effectively  
-- Streamlined room booking workflows, reducing user time by 40%  
-
------
-
-## 🛠️ Technical Skills
-
-| Category             | Tools & Technologies               |
-|----------------------|------------------------------------|
-| **Languages**        | JavaScript, C++                    |
-| **Frontend**         | HTML, CSS, Tailwind CSS, React.js, Next.js, TypeScript |
-| **Backend**          | Node.js, Express.js, Supabase      |
-| **Database**         | MongoDB                            |
-| **Tools**            | VS Code, GitHub, Postman           |
-
-### 🧰 Tech Logos
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="30"/>
-
------
-
-## 🚀 Projects
-
-### [Responsive UI Website](https://show-case-orpin.vercel.app/) *(React.js, Tailwind CSS, Mar 2024)*  
-- Developed modular components with theme toggle and responsive layouts  
-- Designed a design system with reusable UI components  
-- Optimized for mobile, tablet, and desktop screens  
-
----
-
-### Transport Services Platform *(Next.js, May 2025)*  
-- Built a fully responsive logistics frontend supporting dynamic bid tracking  
-- Integrated secure REST APIs for transactional workflows and escrow validation  
-
------
-
-## 🎯 Achievements & Certifications
-
-- Organized volleyball tournament at **AVAHAN’23** with 100+ participants (Section Head)  
-- Solved 200+ algorithmic problems on platforms like LeetCode, CodeChef & Codeforces  
-- Completed **Cloud Computing** certification via **NPTEL**  
-
------
-
-## 🧩 Want to explore more?
-
-Feel free to browse:
-- ✅ My **projects** on GitHub
-- 📄 Full **resume** (PDF or hosted link)
-- 📩 Or get in touch—I'm always open to collaboration!
-
----
-
-*Thank you for visiting!*  
-— Rohit 👋
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit101011&show_icons=true&locale=en" alt="rohit101011" /></p>
